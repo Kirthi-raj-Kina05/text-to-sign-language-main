@@ -1,0 +1,12 @@
+flask
+flask-cors
+flask-sqlalchemy
+flask-login
+flask-bcrypt
+opencv-python
+numpy
+mediapipe
+scikit-learn
+matplotlib
+pillow
+pickle5
